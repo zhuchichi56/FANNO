@@ -7,7 +7,7 @@ FANNO is a fully autonomous, open-sourced framework that revolutionizes the anno
 
 ## Authors
 
-He Zhu†♣, Junyou Su†, Tianle Lun†, Yichen Tao†*, Wenjia Zhang♣, Zipei Fan†, Guanhua Chen†
+He Zhu†♣, Junyou Su†, Tianle Lun†, Yichen Tao†, Wenjia Zhang♣, Zipei Fan†, Guanhua Chen†
 
 †Southern University of Science and Technology, ♣Peking University  
 <small>*Indicates Equal Contribution</small>
